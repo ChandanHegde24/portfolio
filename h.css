@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(238, 240, 243); 
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+  td, th {
+    border: 1px solid;
+    text-align: left;
+    padding: 8px;
+  }
+  
+.container{
+    background-color: antiquewhite;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+.myDiv{
+    background-color: rgb(234, 205, 168);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+.myDiv2{
+    background-color: rgb(170, 135, 90);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+header {
+    text-align: center;
+    padding: 5px;
+}
+
+table, th, td {
+    border: 1px solid rgb(113, 7, 7);
+}
